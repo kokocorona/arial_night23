@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "660d7d02543f0e676e360d00"
+  },
+  "name": "Ceramic Coffee Mug",
+  "info": "Beautiful and handcrafted ceramic coffee mug, made of high-quality clay.",
+  "category": "Home & Kitchen",
+  "img_url": "https://publicdomainvectors.org/en/tag/coffee-mug",
+  "price": 14.99,
+  "createdAt": {
+    "$date": "2024-04-03T16:00:02.330Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T16:00:02.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d7d95f950d96c18cbebcc"
+  },
+  "name": "Ceramic Coffee Mug",
+  "info": "Beautiful and handcrafted ceramic coffee mug, made of high-quality clay.",
+  "category": "Home & Kitchen",
+  "img_url": "https://publicdomainvectors.org/en/tag/coffee-mug",
+  "price": 14.99,
+  "user_id": "65df6fbdfaa1a5ea5fd607cf",
+  "createdAt": {
+    "$date": "2024-04-03T16:02:29.960Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T16:02:29.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d7ea5f5c03315f92fac47"
+  },
+  "name": "Dell XPS 13 Laptop",
+  "info": "The Dell XPS 13 is a high-end laptop with a sleek design and powerful performance.",
+  "category": "Electronics",
+  "img_url": "https://www.dell.com/en-us/shop/dell-laptops/xps-13-laptop/ XPS-13-laptop",
+  "price": 999.99,
+  "user_id": "65df6fbdfaa1a5ea5fd607cf",
+  "createdAt": {
+    "$date": "2024-04-03T16:07:01.435Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T16:07:01.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d7eb2f5c03315f92fac49"
+  },
+  "name": "Apple iPhone 13 Pro",
+  "info": "The Apple iPhone 13 Pro is a high-end smartphone with a powerful A15 Bionic chip and a triple-lens camera system.",
+  "category": "Electronics",
+  "img_url": "https://www.apple.com/iphone-13-pro/",
+  "price": 999,
+  "user_id": "65df6fbdfaa1a5ea5fd607cf",
+  "createdAt": {
+    "$date": "2024-04-03T16:07:14.566Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T16:07:14.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d7eccf5c03315f92fac4b"
+  },
+  "name": "Nike Air Force 1 Shoes",
+  "info": "The Nike Air Force 1 is a basketball shoe that was originally released in 1982. It has since become a popular casual shoe.",
+  "category": "Clothing & Shoes",
+  "img_url": "https://www.nike.com/t/air-force-1-07-shoe-v7t8k/DA8301-101",
+  "price": 99.99,
+  "user_id": "65df6fbdfaa1a5ea5fd607cf",
+  "createdAt": {
+    "$date": "2024-04-03T16:07:40.925Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T16:07:40.925Z"
+  },
+  "__v": 0
+}]
