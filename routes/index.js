@@ -3,7 +3,7 @@ const router = express.Router();
 
 // הגדרת ראוטר של הרואט שנגדיר באפ
 router.get("/",async(req,res) => {
-  res.json({msg:"index work 33333"});
+  res.json({msg:"index work 666633"});
 })
 
 // export default
