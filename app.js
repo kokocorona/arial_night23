@@ -16,7 +16,7 @@ const { routesInit } = require("./routes/configRoutes");
 
 // מגדירים משתנה שהוא מייצג את האקפרס והיכולות שלו
 const app = express();
-
+   
 //אובייקט שהוספנו לקורס על מנת שיוכל לעבוד מול בקשות צד לקוח בדפדפן
 // כגון מאפליקציית ריאקט עם קוקיס
 app.use(cors({ origin: true, credentials: true }));
